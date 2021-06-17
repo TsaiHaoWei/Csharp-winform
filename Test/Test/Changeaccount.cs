@@ -20,6 +20,7 @@ namespace Test
         public string port = "";
         public Changeaccount()
         {
+			
             InitializeComponent();
            
         }
