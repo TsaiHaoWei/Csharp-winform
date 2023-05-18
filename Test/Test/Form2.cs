@@ -1702,7 +1702,7 @@ namespace Test
 
         private void pictureBox4_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox4.Image = Resource1.user;
+            pictureBox4.Image = Resource.user;
         }
 
         private void pictureBox4_MouseEnter(object sender, EventArgs e)
